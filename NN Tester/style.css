@@ -1,0 +1,150 @@
+/*
+#061324
+#49738C
+#A8C9DA
+#DB5756
+#F1F1F1
+*/
+.jumbotron {
+  padding: 3rem 2rem !important;
+}
+
+.exampleImageContainer img {
+  width: 100%;
+  margin-bottom: 32px;
+}
+
+.prettyCode {
+  position: relative;
+}
+
+.jumbotron {
+  position: relative;
+}
+
+.meButton {
+  position: absolute;
+  right: 10px;
+  top: 10px;
+}
+
+.hiddenSight img {
+  height: 50px;
+  width: 50px;
+}
+
+.hiddenSight {
+  background-color: #ebf8ff;
+  text-align: center;
+  padding: 15px 0px;
+}
+
+.imageRow {
+  margin-bottom: 5px;
+}
+
+.codeHighlight {
+  color: yellow !important;
+}
+
+.footer {
+  height: 150px;
+}
+
+#container {
+  display: inline-block;
+}
+
+.buttonSegmentRow {
+  text-align: center;
+  justify-content: center;
+}
+
+.buttonSegment {
+  text-align: center;
+  justify-content: center;
+}
+
+.display-4 {
+  color: #061324;
+  font-weight: 500px !important;
+}
+
+.titleJumbo {
+  margin-top: 20px;
+  background-color: #A8C9DA !important;
+}
+
+.output {
+  position: relative;
+  top: 0;
+  margin-top: 10px;
+  margin-left: 10px;
+  display: inline-block;
+  font-size: 34px;
+}
+
+.correct {
+  color: green;
+}
+
+/* line 1, ../../sass/p5cdn/p5cssCDN.sass */
+body {
+  /* background-color: #EFEFEF; */
+  background-color: #F1F1F1 !important;
+}
+
+/* line 6, ../../sass/p5cdn/p5cssCDN.sass */
+.wrapper {
+  margin-top: 10px;
+  text-align: center;
+}
+
+/* line 11, ../../sass/p5cdn/p5cssCDN.sass */
+.genGitButton {
+  background-color: transparent;
+  border: 1px solid #A9A9A9;
+  border-radius: 3px;
+  color: #FF3B3F;
+  display: inline-block;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 1.2em;
+  padding: 10px;
+  text-decoration: none !important;
+  -webkit-transition: background 0.3s, color 0.3s;
+  transition: background 0.3s, color 0.3s;
+}
+
+/* line 25, ../../sass/p5cdn/p5cssCDN.sass */
+.genGitButton:hover {
+  background: #FF3B3F;
+  color: #CAEBF2;
+}
+
+/* line 30, ../../sass/p5cdn/p5cssCDN.sass */
+.navbar {
+  background-color: transparent !important;
+  z-index: 1;
+}
+
+/* line 35, ../../sass/p5cdn/p5cssCDN.sass */
+.navbar-brand {
+  color: #FF3B3F !important;
+}
+
+/* line 39, ../../sass/p5cdn/p5cssCDN.sass */
+.navGitButton {
+  position: fixed;
+  right: 16px;
+}
+
+/* line 44, ../../sass/p5cdn/p5cssCDN.sass */
+.title {
+  position: fixed;
+  top: 10px;
+  width: 100%;
+  text-align: center !important;
+}
+
+/*# sourceMappingURL=p5cssCDN.css.map */
